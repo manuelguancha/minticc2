@@ -3,3 +3,23 @@ public class App {
         System.out.println("Hello, World!");
     }
 }
+/* MANEJO DE GITHUB 
+git init
+git remote add origin https://github.com/manuelguancha/minticc2.git
+git add .
+git remote remove https://github.com/manuelguancha/minticc2.git
+git commit -m "first commit"
+
+git config user.email "manuelguancha@gmail.com"
+git config user.name "manuelguancha"
+
+git status
+git commit -m "first commit" 
+git push -u origin master
+Select an authentication method for 'https://github.com/':
+  1. Web browser (default)
+  2. Personal access token
+option (enter for default): 1
+https://github.com/manuelguancha/minticc2.git
+
+*/

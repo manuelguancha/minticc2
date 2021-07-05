@@ -22,4 +22,12 @@ Select an authentication method for 'https://github.com/':
 option (enter for default): 1
 https://github.com/manuelguancha/minticc2.git
 
+1. git init
+2. git add .
+3. git config user.email "manuelguancha@gmail.com"
+4. git config user.name "manuelguancha"
+5. git status
+6. git commit -m "3er commit" 
+7. git push -u origin master
+
 */

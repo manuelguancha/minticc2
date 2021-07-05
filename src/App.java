@@ -30,4 +30,6 @@ https://github.com/manuelguancha/minticc2.git
 6. git commit -m "3er commit" 
 7. git push -u origin master
 
+UNA VEZ INICIADO Y DADO EL PRIMER PUSH PASO 1 A 7
+LUEGO SOLO 2 - 6 y 7
 */
